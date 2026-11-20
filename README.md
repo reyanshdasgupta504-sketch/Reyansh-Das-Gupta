@@ -6,15 +6,15 @@ I enjoy turning ideas into usable products, exploring interface design, and work
 
 Featured Projects
 
-"FORMA — Smartphone Product Experience" (https://forma-smartphone-product-experience-c4f77p.v2.appdeploy.ai/)
+[FORMA — Smartphone Product Experience](https://formamock.vercel.app⁠)
 
 A fictional smartphone product concept featuring a premium product presentation, interactive design choices, and a detailed product experience.
 
-"SIGNAL — Data Intelligence Studio" (https://signal-studio-data-intelligence-1rukb6.v2.appdeploy.ai/)
+[SIGNAL — Data Intelligence Studio](https://csvg.vercel.app⁠)
 
 A browser-based CSV exploration tool with data summaries, searchable and sortable rows, metric selection, and visual charts.
 
-"PROOFPOINT — Research & Evidence Workspace" (https://proofpoint-research-evidence-workspace-yuy1el.v2.appdeploy.ai/)
+[PROOFPOINT — Research & Evidence Workspace](https://prfp.vercel.app⁠)
 
 A workspace for organising claims, recording sources, and reviewing supporting or challenging evidence. It is an organiser, not an automated fact-checker.
 
