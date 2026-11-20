@@ -22,7 +22,7 @@ Portfolio
 
 Explore my projects and work:
 
-"Visit My Portfolio" (https://reyansh-developer-portfolio-5x4any.v2.appdeploy.ai/)
+[Visit My Portfolio](https://rdgfolio.vercel.app⁠)
 
 Interests
 
